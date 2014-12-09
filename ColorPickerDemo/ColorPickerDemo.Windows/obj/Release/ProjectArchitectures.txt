@@ -1,0 +1,2 @@
+D:\documents\GitHub\ColorPickerDemo\ColorPicker\ColorPicker.csproj;neutral
+D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\ColorPickerDemo.Windows.csproj;neutral

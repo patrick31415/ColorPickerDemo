@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PATRICK-PC</Machine>
+    <WindowsUser>Patrick</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>71db0652-be74-40df-9b93-8738e440b5ed</PackageIdentityName>
+    <IntermediateOutputPath>D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5E595D5E48DAA977EA660632857581E0414C5117B08B04CBF77E3507FE1B77BB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>71db0652-be74-40df-9b93-8738e440b5ed_1.0.0.0_neutral__t66pgecwyvnzw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>71db0652-be74-40df-9b93-8738e440b5ed_t66pgecwyvnzw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>71db0652-be74-40df-9b93-8738e440b5ed</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Patrick</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-09T08:55:08.248</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\bin\Debug\ColorPickerDemo.Windows.exe">
+      <PackagePath>ColorPickerDemo.Windows.exe</PackagePath>
+      <Modified>2014-12-09T08:55:05.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPicker\bin\Debug\ColorPicker.winmd">
+      <PackagePath>ColorPicker.winmd</PackagePath>
+      <Modified>2014-12-09T08:55:03.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T02:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T02:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T02:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T02:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\PlaceHolder.png">
+      <PackagePath>PlaceHolder.png</PackagePath>
+      <Modified>2014-11-26T14:10:21.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPicker\cvsBackgound.png">
+      <PackagePath>ColorPicker\cvsBackgound.png</PackagePath>
+      <Modified>2014-12-09T08:19:31.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPicker\PlaceHolder.png">
+      <PackagePath>ColorPicker\PlaceHolder.png</PackagePath>
+      <Modified>2014-11-26T14:10:21.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPicker\rectPureColor.png">
+      <PackagePath>ColorPicker\rectPureColor.png</PackagePath>
+      <Modified>2014-11-27T14:29:41.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-26T14:05:48.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-12-09T08:30:43.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPicker\bin\Debug\ColorPicker1.xbf">
+      <PackagePath>ColorPicker\ColorPicker1.xbf</PackagePath>
+      <Modified>2014-12-09T08:30:17.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPicker\bin\Debug\MyUserControl1.xbf">
+      <PackagePath>ColorPicker\MyUserControl1.xbf</PackagePath>
+      <Modified>2014-12-09T08:30:17.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\bin\Debug\ColorPickerDemo.Windows.xr.xml">
+      <PackagePath>ColorPickerDemo.Windows.xr.xml</PackagePath>
+      <Modified>2014-12-09T08:30:43.436</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPicker\bin\Debug\ColorPicker.xr.xml">
+      <PackagePath>ColorPicker\ColorPicker.xr.xml</PackagePath>
+      <Modified>2014-12-09T08:30:17.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-09T08:30:44.627</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

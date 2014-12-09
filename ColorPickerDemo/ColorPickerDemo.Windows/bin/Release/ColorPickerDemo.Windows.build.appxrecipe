@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PATRICK-PC</Machine>
+    <WindowsUser>Patrick</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>71db0652-be74-40df-9b93-8738e440b5ed</PackageIdentityName>
+    <IntermediateOutputPath>D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\bin\Release\ColorPickerDemo.Windows.exe">
+      <PackagePath>ColorPickerDemo.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPicker\bin\Release\ColorPicker.winmd">
+      <PackagePath>ColorPicker.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\PlaceHolder.png">
+      <PackagePath>PlaceHolder.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPicker\cvsBackgound.png">
+      <PackagePath>ColorPicker\cvsBackgound.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPicker\PlaceHolder.png">
+      <PackagePath>ColorPicker\PlaceHolder.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPicker\rectPureColor.png">
+      <PackagePath>ColorPicker\rectPureColor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPicker\bin\Release\ColorPicker1.xbf">
+      <PackagePath>ColorPicker\ColorPicker1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPicker\bin\Release\MyUserControl1.xbf">
+      <PackagePath>ColorPicker\MyUserControl1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\bin\Release\ColorPickerDemo.Windows.xr.xml">
+      <PackagePath>ColorPickerDemo.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPicker\bin\Release\ColorPicker.xr.xml">
+      <PackagePath>ColorPicker\ColorPicker.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\documents\GitHub\ColorPickerDemo\ColorPickerDemo\ColorPickerDemo.Windows\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
