@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ColorPicker
 {
-    public sealed class ColorPickerTool
+    public sealed class ColorPickerTool : IValueConverter
     {
 		//as sdc sdz sd dsfasdf
     }
