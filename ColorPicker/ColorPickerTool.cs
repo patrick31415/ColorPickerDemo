@@ -7,6 +7,6 @@ namespace ColorPicker
 {
     public sealed class ColorPickerTool
     {
-
+		// Add some codes
     }
 }
