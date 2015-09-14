@@ -7,6 +7,6 @@ namespace ColorPicker
 {
     public sealed class ColorPickerTool
     {
-
+		//as sdc sdz sd 
     }
 }
