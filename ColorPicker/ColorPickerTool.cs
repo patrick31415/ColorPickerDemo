@@ -8,5 +8,9 @@ namespace ColorPicker
     public sealed class ColorPickerTool : IValueConverter
     {
 		//as sdc sdz sd dsfasdf
+
+		/*
+		 asdcac 
+		 */
     }
 }
